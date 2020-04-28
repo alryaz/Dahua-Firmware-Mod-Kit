@@ -1,2 +1,18 @@
+#
+# .gitignore
+#
+
+# GENERAL #
+*~
+*.bak
+
+
+# PYTHON #
 __pycache__/
 .py[cod]
+
+
+# IDEs #
+.vs/
+.vscode/
+.idea/
