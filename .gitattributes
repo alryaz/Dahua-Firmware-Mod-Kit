@@ -1,0 +1,15 @@
+#
+# .gitattributes
+#
+
+# GENERAL #
+*						text=auto
+
+
+# SOURCE CODE #
+*.py					eol=lf diff=python
+
+
+# TEXT FILES #
+*.md					eol=lf
+LICENSE					eol=lf
